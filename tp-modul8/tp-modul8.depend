@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734713509 source:c:\users\dinub\downloads\data structure\tp-modul8\main.cpp
+	"queue_vaksinasi.h"
+
+1734755631 c:\users\dinub\downloads\data structure\tp-modul8\queue_vaksinasi.h
+	<iostream>
+	<string>
+
+1734713400 source:c:\users\dinub\downloads\data structure\tp-modul8\queue_vaksinasi.cpp
+	"queue_vaksinasi.h"
+
