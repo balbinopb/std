@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729451152 source:c:\users\dinub\downloads\data structure\tp-modul-6\main.cpp
+	"DLL.h"
+
+1735915089 c:\users\dinub\downloads\data structure\tp-modul-6\dll.h
+	<iostream>
+	<string>
+
+1729450643 source:c:\users\dinub\downloads\data structure\tp-modul-6\dll.cpp
+	"DLL.h"
+
