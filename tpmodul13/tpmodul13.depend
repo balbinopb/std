@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733665305 source:c:\users\dinub\downloads\data structure\tpmodul13\tree.cpp
+	"Tree.h"
+
+1733664655 c:\users\dinub\downloads\data structure\tpmodul13\tree.h
+	<iostream>
+
+1733564668 source:c:\users\dinub\downloads\data structure\tpmodul13\main.cpp
+	<iostream>
+	"Tree.h"
+

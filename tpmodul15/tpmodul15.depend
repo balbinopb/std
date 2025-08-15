@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734898994 source:c:\users\dinub\downloads\data structure\tpmodul15\main.cpp
+	"tree2.h"
+
+1734898887 c:\users\dinub\downloads\data structure\tpmodul15\tree2.h
+	<iostream>
+
+1734898906 source:c:\users\dinub\downloads\data structure\tpmodul15\tree2.cpp
+	"tree2.h"
+
