@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1732466444 source:c:\users\dinub\downloads\data structure\tpmodul11\main.cpp
+	"graph.h"
+
+1735953443 c:\users\dinub\downloads\data structure\tpmodul11\graph.h
+	<iostream>
+
