@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1755275715 source:c:\users\dinub\downloads\data structure\practice\main.cpp
+	<iostream>
+	"list.h"
+
+1755254068 c:\users\dinub\downloads\data structure\practice\list.h
+	<iostream>
+
+1755275699 source:c:\users\dinub\downloads\data structure\practice\list.cpp
+	"list.h"
+
